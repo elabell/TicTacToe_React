@@ -1,4 +1,5 @@
 # TicTacToe_React
 
-The Project for learnig ReactJS 
+The Project for learning ReactJS 
+
 *Created with CodeSandbox
